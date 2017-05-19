@@ -1,21 +1,26 @@
 {
-  "name": "perfect-scrollbar",
-  "version": "0.7.0",
+  "name": "beligante-perfect-scrollbar",
+  "version": "0.7.1",
   "description": "Minimalistic but perfect custom scrollbar plugin",
   "author": "Hyunje Jun <me@noraesae.net>",
   "contributors": [
     {
       "name": "Hyunje Jun",
       "email": "me@noraesae.net"
+    },
+
+    {
+      "name": "Luis Gustavo Beligante",
+      "email": "gustavobeligante@gmail.com"
     }
   ],
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/noraesae/perfect-scrollbar"
+    "url": "https://github.com/beligante/perfect-scrollbar"
   },
   "bugs": {
-    "url": "https://github.com/noraesae/perfect-scrollbar/issues"
+    "url": "https://github.com/beligante/perfect-scrollbar/issues"
   },
   "keywords": [
     "jquery-plugin",
